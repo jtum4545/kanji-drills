@@ -1,0 +1,15 @@
+body{
+    height: calc(100vh - 40px);
+}
+
+#answer {
+    text-align: center;
+}
+
+.field {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
